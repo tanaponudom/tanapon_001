@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tanapon</string>
+    <string name="tv_header1">กรุณากรอกข้อมูล</string>
+    <string name="tv_fname">ชื่อ</string>
+    <string name="tv_lname">นามสกุล</string>
+    <string name="tv__nname">ชื่อเล่น</string>
+    <string name="tv_study">ศึกษาที่</string>
+    <string name="tv_number">เบอร์</string>
+
+    <string name="btn_sender">ส่งข้อมูล</string>
+    <string name="btn_clear">ล้างข้อมูล</string>
+    <string name="btn_close_app">ปิด</string>
+
+    <string name="tv_header2">ข้อมูล</string>
+    <string name="btn_back">กลับ</string>
+</resources>
